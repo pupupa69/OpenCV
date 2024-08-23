@@ -1,0 +1,3 @@
+[submodule "image-to-LTspice"]
+	path = image-to-LTspice
+	url = https://github.com/pupupa69/image-to-LTspice.git
